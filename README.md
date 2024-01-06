@@ -1,18 +1,20 @@
 # Due Invoices Reminder and follow up using Zapier Automation
- - Implemented Google OAuth 2.0 for authentication.
+ - Used Passport and Google OAuth 2.0 for authentication.
  - Displays due invoices and details of that user.
  - Created Zap connecting Gmail and generated Webhooks URL.
  - When triggered automation, mail will be sent to specified user reminding about due invoice.
    
 # Techstack used
 - ReactJS 
-- Google APIs
+- CSS
+- Axios
 - Zapier
 - Express
 - Node.JS
+- Passport
+
 
 # Setting up and Running
-- Terminals for both backend and frontend
 - cd frontend
 - cd backend
 - npm start
