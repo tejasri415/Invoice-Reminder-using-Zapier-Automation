@@ -20,12 +20,6 @@
 ## src/App.js - Frontend
 ## server.js - Backend
 
-# Demonstration
-
-  
-
-  
-
 # Screenshots
 <img width="460" alt="Screenshot 2024-01-06 165905" src="https://github.com/tejasri415/Invoice-Reminder-using-Zapier-Automation/assets/85746815/34e9c51e-d71e-4c4d-b121-78bf19b71f50">
 
